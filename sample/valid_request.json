@@ -1,0 +1,8 @@
+{
+  "decision_id": "decision-demo-001",
+  "authority_id": "delegate-ops-17",
+  "policy_version": "2026.08",
+  "evidence_id": "evidence-case-42",
+  "runtime_context": {"region": "eu-west", "risk_tier": "low"},
+  "requested_at": "2026-08-01T09:00:00Z"
+}

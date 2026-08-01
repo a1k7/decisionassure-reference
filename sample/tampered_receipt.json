@@ -1,0 +1,3 @@
+{
+  "description": "A receipt returned by POST /tamper has a changed field but its original signature. POST /verify reports TAMPERED."
+}
